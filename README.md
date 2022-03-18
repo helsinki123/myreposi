@@ -5,3 +5,4 @@
  bbb
  debugger
  我是debugger分支
+ debugger-child-branch
